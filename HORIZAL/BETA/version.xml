@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.0.2</version> <!-- version du nouvel EXE -->
+  <version>1.0.3</version> <!-- version du nouvel EXE -->
   <url>https://github.com/GroupeInvest/GCPLAN/raw/refs/heads/main/HORIZAL/BETA/GcPlan.zip</url>
   <changelog>  <![CDATA[
   <html>
   <body style="font-family:Segoe UI; font-size:9pt;">
-    <h2>Version 1.2.0</h2>
+    <h2>Version 1.0.3</h2>
     <ul>
-      <li>Ajout des mesures courbes</li>
-      <li>Correction du snap intersection</li>
-      <li><b>Amélioration des performances</b></li>
+      <li>✨ Export pdf : encapuslation des polices de caractères</li>
+      <li>✨ Export pdf : génération des longueurs avec possibilité de saisie</li>
+      <li>✨ Import pdf : possibilié de mettre à jour les longueurs en important un pdf</li>
+      <li>🛠 Correctif du calcul total des longueurs</li>
     </ul>
   </body>
   </html>
