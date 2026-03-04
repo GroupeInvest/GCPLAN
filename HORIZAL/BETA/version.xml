@@ -2,5 +2,12 @@
 <item>
   <version>1.0.2</version> <!-- version du nouvel EXE -->
   <url>https://github.com/GroupeInvest/GCPLAN/raw/refs/heads/main/HORIZAL/BETA/GcPlan.zip</url>
-  <changelog></changelog>
+  <changelog> <![CDATA[
+    <h2>Version 1.2.0</h2>
+    <ul>
+      <li>Ajout des mesures courbes</li>
+      <li>Correction du snap intersection</li>
+      <li><b>Amélioration des performances</b></li>
+    </ul>
+  ]]></changelog>
 </item>
