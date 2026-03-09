@@ -5,9 +5,16 @@
   <changelog>  <![CDATA[
   <html>
   <body style="font-family:Segoe UI; font-size:9pt;">
+<h2>Version 1.0.4</h2>
+    <ul>
+      <li>🛠 Import plans : amélioration de la qualité</li>
+      <li>✨ Echelle pdf : Possibilité de reprendre l'échelle des autres plans</li>
+      <li>✨ Entraxe coupe : Possibilité de définir un entraxe sur les coupes</li>
+    </ul>
+
     <h2>Version 1.0.3</h2>
     <ul>
-      <li>✨ Export pdf : encapuslation des polices de caractères</li>
+      <li>✨ Export pdf : encapsulation des polices de caractères</li>
       <li>✨ Export pdf : génération des longueurs avec possibilité de saisie</li>
       <li>✨ Import pdf : possibilié de mettre à jour les longueurs en important un pdf</li>
       <li>🛠 Correctif du calcul total des longueurs</li>
