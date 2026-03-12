@@ -5,7 +5,7 @@
   <changelog>  <![CDATA[
   <html>
   <body style="font-family:Segoe UI; font-size:9pt;">
-<h2>Version 1.0.5</h2>
+<h2>Version 1.0.6</h2>
     <ul>
       <li>✨ Import mesures : amélioration de l'import</li>
       <li>🛠 correctif erreur quand aucun coupe n'est définie</li>
